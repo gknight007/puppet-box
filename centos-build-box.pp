@@ -1,0 +1,7 @@
+
+
+package { [
+    'gcc',
+  ]:
+    ensure => latest,
+}
